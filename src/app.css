@@ -1,0 +1,19 @@
+.containerApp {
+  margin:5%;
+  background-color: wheat;
+}
+
+.profilePic-app{
+  padding-top:10%; 
+  text-align:center;
+}
+
+.socialbar{
+  background-image: url("http://www.clker.com/cliparts/x/L/g/p/K/O/blank-black-button.svg");
+  margin-top: 1%;
+  position: relative;
+    margin-left: 40%;
+ 
+  
+}
+

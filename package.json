@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "classnames": "2.2.5",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3",
+    "prop-types": "15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-fittext": "^1.0.0",
+    "react-scripts": "1.1.4",
+    "react-star-rating-component": "1.4.1",
+    "react-vertical-timeline-component": "2.0.7",
+    "reactstrap": "6.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

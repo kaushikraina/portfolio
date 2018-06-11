@@ -1,0 +1,10 @@
+.Heading {
+  font-weight: bold;
+ font-family:Arial;
+}
+
+.Content{
+  font-weight: lighter;
+  font-style: italic;
+  font-family:courier;
+}
