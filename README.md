@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can access and edit this project on [stackBlitz](https://stackblitz.com/edit/portfolionew-y31hhd)
 
-## Table of Contents
+Feel free to edit :hammer: project. I will be keeping eye :flushed: on pull requests.
 
 - [Pre-request](#Pre-request)
 - [Dependencies](#Dependencies)
