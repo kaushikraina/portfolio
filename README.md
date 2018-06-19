@@ -1,12 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-You can access this project on [stackBlitz](https://stackblitz.com/edit/portfolionew-y31hhd)
+You can access and edit this project on [stackBlitz](https://stackblitz.com/edit/portfolionew-y31hhd)
 
 ## Table of Contents
 
 - [Pre-request](#Pre-request)
 - [Dependencies](#Dependencies)
 - [Folder Structure](#folder-structure)
+- [View Sample](#Sneek-Peek)
 
 
 ## Pre request
@@ -40,5 +41,9 @@ After creation, your project should look like this:
 - container       //  wraps all the components of portfolio
 - app             //  holds container 
 - index           // main page
+
+
 ```
+## Sneek-Peek
+![Sneek Peek of portfolio](https://github.com/kaushikraina/portfolio/blob/master/Screen%20.gif)
 
